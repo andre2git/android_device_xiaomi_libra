@@ -20,10 +20,10 @@
 
     <!-- Generic stuff used everywhere -->
     <string name="loading">Загрузка\u2026</string>
-    <string name="dlg_ok">ОК</string>
+    <string name="dlg_ok">Ok</string>
     <string name="cancel">Отмена</string>
     <string name="add">Добавить</string>
-    <string name="choose_app">Виберите программу</string>
+    <string name="choose_app">Выберите программу</string>
     <string name="reset">Сброс</string>
     <string name="advanced">Дополнительно</string>
     <string name="settings">Настройки</string>
@@ -54,7 +54,7 @@
     <string name="privacy_guard_help_title">Справка</string>
     <string name="privacy_guard_reset_title">Сброс</string>
     <string name="privacy_guard_reset_text">Сбросить разрешения?</string>
-    <string name="privacy_guard_help_text">Выберите, для каких приложений будет включен Менеджер защиты. Выбранные приложения не будут иметь доступа к личным данным, вроде контактов, сообщений, местоположения или журнала звонков. Долгое нажатие на пункт позволяет установить индивидуальные разрешения для приложения.\n\nПо умолчанию показываются только пользовательские приложения. Для показа предустановленных или фильтрации имеющих критичные разрешения приложений выбирайте сооветствующие пункты меню.</string>
+    <string name="privacy_guard_help_text">Выберите, для каких приложений будет включен Менеджер защиты. Выбранные приложения не будут иметь доступа к личным данным, вроде контактов, сообщений, местоположения или журнала звонков. Долгое нажатие на пункт позволяет установить индивидуальные разрешения для приложения.\n\nПо умолчанию показываются только пользовательские приложения. Для показа предустановленных или фильтрации имеющих критичные разрешения приложений выбирайте соответствующие пункты меню.</string>
     <string name="privacy_guard_manager_show_system_apps">Показывать предустановленные приложения</string>
     <string name="privacy_guard_advanced_settings_title">Дополнительно</string>
     <string name="privacy_guard_notification_title">Уведомление</string>
@@ -127,7 +127,7 @@
     <string name="live_display_enhance_color_summary">Улучшить сочность оттенков кожи, пейзажей и других изображений</string>
     <string name="live_display_color_profile_title">Цветовой профиль</string>
     <string name="live_display_color_profile_standard_title">Стандартный</string>
-   <string name="live_display_color_profile_standard_summary">Точная цветопередача и яркие белые тона</string>
+    <string name="live_display_color_profile_standard_summary">Точная цветопередача и яркие белые тона</string>
     <string name="live_display_color_profile_natural_title">Естественный</string>
     <string name="live_display_color_profile_natural_summary">Натуральные цвета и оттенки кожи</string>
     <string name="live_display_color_profile_dynamic_title">Динамический</string>
@@ -180,7 +180,7 @@
     <string name="hardware_keys_action_last_app">Последнее приложение</string>
     <string name="hardware_keys_action_split_screen">Разделенный экран</string>
     <string name="camera_sleep_on_release_title">Временное включение</string>
-    <string name="camera_sleep_on_release_summary">Держать экран включённым только при удержании кнопки</string>
+    <string name="camera_sleep_on_release_summary">Держать экран включенным только при удержании кнопки</string>
     <string name="camera_launch_title">Запуск камеры</string>
     <string name="camera_launch_summary">Открывать приложение камеры при долгом нажатии кнопки</string>
     <string name="volbtn_music_controls_title">Управление плеером</string>
@@ -226,13 +226,13 @@
     <string name="power_menu_title">Меню при долгом нажатии</string>
     <string name="power_menu_reboot_title">Перезагрузка</string>
     <string name="power_menu_screenshot_title">Скриншот</string>
-    <string name="power_menu_airplane_title">Режим полёта</string>
+    <string name="power_menu_airplane_title">Режим полета</string>
     <string name="power_menu_users_title">Пользователи</string>
     <string name="power_menu_settings_title">Ярлык настроек</string>
     <string name="power_menu_lockdown_title">Блокировка устройства</string>
-    <string name="power_menu_bug_report_title">Отчёт об ошибке</string>
+    <string name="power_menu_bug_report_title">Отчет об ошибке</string>
     <string name="power_menu_sound_title">Звуковая панель</string>
-    <string name="power_menu_bug_report_disabled">Отчёт об ошибке отключен в настройках для разработчика</string>
+    <string name="power_menu_bug_report_disabled">Отчет об ошибке отключен в настройках для разработчика</string>
 
     <string name="volume_keys_control_ring_stream_title">Регулировка громкости рингтона</string>
     <string name="volume_keys_control_ring_stream_summary_on">Кнопки громкости регулируют громкость рингтона</string>
@@ -241,7 +241,7 @@
     <string name="camera_double_tap_power_gesture_title">Запуск камеры двойным нажатием кнопки питания</string>
 
     <!-- Description of setting that controls gesture to open camera by double tapping the power button [CHAR LIMIT=NONE] -->
-    <string name="camera_double_tap_power_gesture_desc">"Быстро запускайте камеру, без разблокировки экрана</string>
+    <string name="camera_double_tap_power_gesture_desc">Быстро запускайте камеру, без разблокировки экрана</string>
 
     <!-- Profiles -->
     <string name="profile_menu_delete_title">Удалить</string>
@@ -269,7 +269,7 @@
 
     <!-- Profile triggers -->
     <string name="no_bluetooth_triggers">Нет сопряженных устройств Bluetooth.\nНажмите, чтобы добавить устройство и создать условие переключения на его основе.</string>
-    <string name="no_wifi_triggers">Нет сохраненных сетей Wi\u2011Fi.\nНажмите, чтобы добавить сеть Wi\u2011Fi и создать условие переключения на её основе.</string>
+    <string name="no_wifi_triggers">Нет сохраненных сетей Wi\u2011Fi.\nНажмите, чтобы добавить сеть Wi\u2011Fi и создать условие переключения на ее основе.</string>
     <string name="no_triggers_configured">Условия переключения не настроены. Нажмите, чтобы добавить условие.</string>
     <string name="no_triggers_configured_nfc">Нажмите для добавления NFC-метки к этому профилю.</string>
     <string name="profile_setup_setup_triggers_description">Укажите условия, при которых будет включаться данный профиль</string>
@@ -353,7 +353,7 @@
     <string name="choose_soundtone">Выбрать звук уведомлений</string>
     <string name="choose_ringtone">Выбрать рингтон</string>
     <string name="ringtone_title">Мелодия телефона</string>
-    <string name="ringtone_summary">""</string>
+    <string name="ringtone_summary">Рингтон кратко</string>
 
     <!-- Sound settings screen, setting option name to pick ringtone (a list dialog comes up)-->
     <string name="soundtone_title">Звук уведомления</string>
@@ -376,7 +376,7 @@
     <string name="profile_lockmode_policy_disabled_summary">Этот параметр профиля отключен администратором устройства</string>
     <string name="profile_lockmode_insecure_summary">Не запрашивать PIN-код или пароль</string>
     <string name="profile_lockmode_disabled_summary">Отключить экран блокировки</string>
-    <string name="profile_airplanemode_title">Режим полёта</string>
+    <string name="profile_airplanemode_title">Режим полета</string>
 
     <string name="profile_brightness_title">Яркость экрана</string>
 
@@ -456,8 +456,8 @@
     <string name="status_bar_double_tap_to_sleep_summary">Дважды коснитесь строки состояния чтобы выключить экран</string>
 
     <!-- Protected apps -->
-    <string name="protected_apps_manager_title">Защищённые программы</string>
-    <string name="protected_apps_manager_summary">Управление защищёнными приложениями</string>
+    <string name="protected_apps_manager_title">Защищенные программы</string>
+    <string name="protected_apps_manager_summary">Управление защищенными приложениями</string>
 
     <!-- Contributors cloud activity -->
     <string name="contributors_cloud_fragment_title">Имена разработчиков</string>
@@ -479,7 +479,7 @@
     <string name="anonymous_statistics_title">Отправка статистики</string>
     <string name="anonymous_statistics_summary">Помогите сделать CyanogenMod лучше, разрешив сбор анонимной статистики</string>
     <string name="anonymous_statistics_warning_title">Сведения</string>
-    <string name="anonymous_statistics_warning">Анонимные отчёты позволяют разработчикам CyanogenMod отслеживать работу ОС на различных устройствах. Отправляемая информация включает название устройства, версию прошивки и уникальный идентификатор, что никаким образом не затрагивает Вашу конфиденциальность. Данные отправляются при каждой загрузке устройства.\n\nЧтобы просмотреть пример, нажмите «Просмотр данных».</string>
+    <string name="anonymous_statistics_warning">Анонимные отчеты позволяют разработчикам CyanogenMod отслеживать работу ОС на различных устройствах. Отправляемая информация включает название устройства, версию прошивки и уникальный идентификатор, что никаким образом не затрагивает Вашу конфиденциальность. Данные отправляются при каждой загрузке устройства.\n\nЧтобы просмотреть пример, нажмите «Просмотр данных».</string>
     <string name="enable_reporting_title">Разрешить сбор статистики</string>
     <string name="preview_data_title">Просмотр данных</string>
     <string name="view_stats_title">Просмотр статистики</string>
@@ -537,7 +537,7 @@
     <string name="auto_power_save_summary_on">Автоматически включать режим энергосбережения при проценте батареи %d </string>
     <string name="auto_power_save_summary_off">Не включать режим энергосбережения автоматически</string>
     <string name="app_perf_profiles_title">Автоматическая оптимизация</string>
-    <string name="app_perf_profiles_summary">Автоматический вибор соответствующего профеля производительности для приложений и режимов использования</string>
+    <string name="app_perf_profiles_summary">Автоматический выбор соответствующего профиля производительности для приложений и режимов использования</string>
 
     <!-- Applications: Expanded desktop -->
     <string name="expanded_desktop_settings_title">Расширенный экран</string>
@@ -551,3 +551,4 @@
     <string name="expanded_desktop_nothing_to_show_text">Чтобы настроить расширенный экран для отдельных программ, выключите переключатель</string>
 
 </resources>
+
